@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @candirlimustafa
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c, ruby and java languages
-- 📫 How to reach me -> mus.383898@gmail.com
+-  I’m interested in programming
+-  I’m currently learning c, ruby, java, python programming languages
+-  Artificial intelligence, image processing and mobile programming 
+-  I'm learning English for in private course. 
+- 📫 How to reach me -> mustafa.candirli@bil.omu.edu.tr
 
 <!---
 candirlimustafa/candirlimustafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
