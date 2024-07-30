@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=candirlimustafa" alt="candirlimustafa" /></a> </p>
-
 - 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **everything**
