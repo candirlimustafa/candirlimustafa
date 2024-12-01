@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **React and ASP.Net**
 
 - 🌱 I’m currently learning **everything**
 
